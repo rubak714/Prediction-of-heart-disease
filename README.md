@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Heart Disease Prediction
 
 
 Given some clinical parameters about a patient, it is predicted whether they have heart disease or not. The following Machine Learning algorithms are used to predict whether a patient has heart disease or not.
